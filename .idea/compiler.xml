@@ -9,8 +9,5 @@
         <module name="Stage" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Stage" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
